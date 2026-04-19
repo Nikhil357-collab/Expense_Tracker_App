@@ -1,0 +1,15 @@
+        Raw Expense Data
+                ↓
+        Data Cleaning
+                ↓
+        Feature Engineering
+                ↓
+     ------------------------
+     |        |            |
+ Forecast   Anomaly    Budgeting
+ Model      Detection   Logic
+     ------------------------
+                ↓
+        Insights Engine
+                ↓
+      Dashboard (Streamlit)
